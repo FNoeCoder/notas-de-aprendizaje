@@ -52,6 +52,15 @@ Se puede usar un `>` o más.
 >"No hay que ir para atrás ni para darse impulso"
 >> *Lao Tsé*
 
+## Tablas
+~~~
+|  Python   |  JS              |  Java                   |
+|-----------|------------------|-------------------------|
+|`print("")`|`console.log("");`|`System.out.println("");`|
+~~~
+|  Python   |  JS              |  Java                   |
+|-----------|------------------|-------------------------|
+|`print("")`|`console.log("");`|`System.out.println("");`|
 ## Líneas Horizontales
 
 |Simbolo|
