@@ -18,7 +18,7 @@
 |-------------------|-----------------|
 | `*Italic*`        | *Italic*        |
 | `**Strong**`      | **Strong**      |
-| `~~~Tachado~~~`   | ~~Tachado~~~    |
+| `~~Tachado~~`     | ~~Tachado~~~    |
 
 ## Listas
 ### Simbolos que se pueden usar
