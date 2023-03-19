@@ -1,4 +1,4 @@
-# Formatos de textos, lienas y código
+# Formatos de textos, líenas y código
 ---
 ## Titulos
 
@@ -52,7 +52,7 @@ Se puede usar un `>` o más.
 >"No hay que ir para atrás ni para darse impulso"
 >> *Lao Tsé*
 
-## Lineas Horizontales
+## Líneas Horizontales
 
 |Simbolo|
 |-------|
