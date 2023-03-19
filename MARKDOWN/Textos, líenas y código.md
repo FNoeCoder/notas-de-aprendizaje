@@ -18,7 +18,7 @@
 |-------------------|-----------------|
 | `*Italic*`        | *Italic*        |
 | `**Strong**`      | **Strong**      |
-| `~~~Tachado~~~`   | ~~~Tachado~~~   |
+| `~~~Tachado~~~`   | ~~Tachado~~~    |
 
 ## Listas
 ### Simbolos que se pueden usar
@@ -31,12 +31,6 @@
 ### Sublistas
 Agregar una tabulación al querer agregar una sublista
 
-- Incio
-    1. Elemento 1
-    2. Elemento 2
-- Desenlase
-    - Elemento
-    - Elemento
 ```
 - Incio
     1. Elemento 1
@@ -83,3 +77,4 @@ Se puede usar un `>` o más.
     print("Hola")
 ```
 ~~~
+
